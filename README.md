@@ -49,9 +49,9 @@ Enables victims under digital surveillance to transmit distress calls without al
 - **Authority Pipeline:** Reverse steganography extracts messages from monitored hashtags, classifies incident urgency, and alerts authorities.
 - **Culprit Similarity Matching:** Offender traits are embedded into vector space and matched against prior records using **MongoDB Atlas Vector Search** ($k$-NN cosine similarity) to identify repeat perpetrators.
 
-| User & Authority Workflow | Steganography Pipeline |
+| 👤 User Workflow (Covert SOS Creation) | 👮 Authority Workflow (Detection & Response) |
 | :---: | :---: |
-| ![User Flow](https://i.ibb.co/LS6195k/napkin-selection-3.png) | ![Pipeline](https://i.ibb.co/X2GTbYc/napkin-selection-4.png) |
+| ![User Workflow](docs/images/user-flow.png) | ![Authority Workflow](docs/images/authority-flow.png) |
 
 ---
 
@@ -65,7 +65,7 @@ Provides accessible, confidential, trauma-informed psychological first aid.
 
 <div align="center">
 
-![Therapeutic Support Architecture](https://i.ibb.co/RhhLdm9/napkin-selection-1.png)
+![Therapeutic Support Architecture](docs/images/therapy-flow.png)
 
 </div>
 
@@ -79,7 +79,7 @@ Democratizes access to legal rights and protections under the law.
 
 <div align="center">
 
-![Legal Knowledge Retrieval Pipeline](https://i.ibb.co/cXR59by/napkin-selection-2.png)
+![Legal Knowledge Retrieval Pipeline](docs/images/law-flow.png)
 
 </div>
 
