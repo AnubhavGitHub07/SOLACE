@@ -26,6 +26,17 @@ Globally, **1 in 3 women** faces physical or sexual violence. In abusive relatio
 2. **3D AI Mental Health Companion:** Delivers 24/7 empathetic, non-judgmental support with real-time lip-synced 3D facial expressions.
 3. **Constitutional Law Agent:** Provides instant, confidential guidance on domestic abuse statutes, custody rights, and restraining orders.
 
+### 🌐 Ecosystem Overview
+
+| Feature | What it does |
+| :--- | :--- |
+| 🆘 **Discreet SOS** | Creates and communicates emergency messages discreetly |
+| 🔐 **Hidden SOS Communication** | Conceals distress information inside ordinary images |
+| 🧠 **Gemini Safety Intelligence** | Understands, analyzes, and structures emergency situations |
+| 🧑‍⚕️ **AI Support Avatar** | Provides empathetic voice-based emotional support |
+| ⚖️ **AI Legal Assistant** | Helps users understand relevant legal and safety information |
+| 🔎 **Case & Culprit Intelligence** | Uses embeddings + vector search to identify related cases |
+
 ---
 
 ## 💡 Core Pillars
@@ -42,10 +53,6 @@ Enables victims under digital surveillance to transmit distress calls without al
 | :---: | :---: |
 | ![User Flow](https://i.ibb.co/LS6195k/napkin-selection-3.png) | ![Pipeline](https://i.ibb.co/X2GTbYc/napkin-selection-4.png) |
 
-| Covert Post Creation | Culprit Vector Matching |
-| :---: | :---: |
-| ![Post Creation](https://storage.googleapis.com/example-offi-1/titan%20img%20gen.webp) | ![Culprit Match](https://storage.googleapis.com/example-offi-1/culprit.webp) |
-
 ---
 
 ### 2. 🗣️ 3D AI Avatar for Mental Health Support
@@ -56,9 +63,11 @@ Provides accessible, confidential, trauma-informed psychological first aid.
 - **Trauma-Informed Support:** Personalized coping mechanisms and grounding exercises for panic attacks and emotional distress.
 - **Consent-Driven Memory:** Prior session context is securely preserved in MongoDB only when explicitly authorized by the user.
 
-| Therapeutic Flow | 3D Avatar Interface |
-| :---: | :---: |
-| ![Therapy Flow](https://storage.googleapis.com/example-offi-1/therapy%20bot%20flow%20amazon.webp) | ![Therapy Bot](https://storage.googleapis.com/example-offi-1/therapy%20bot.webp) |
+<div align="center">
+
+![Therapeutic Support Architecture](https://i.ibb.co/RhhLdm9/napkin-selection-1.png)
+
+</div>
 
 ---
 
@@ -68,9 +77,11 @@ Democratizes access to legal rights and protections under the law.
 - **Legal RAG Architecture:** Legal statutes, domestic violence acts, and constitutional protections are chunked using LangChain (`RecursiveCharacterTextSplitter`) and indexed into vector collections.
 - **Plain-Language Guidance:** Translates complex legal codes into clear, actionable advice on filing complaints, seeking restraining orders, and understanding custody rights.
 
-| Legal Knowledge Retrieval Pipeline | Law Bot Interface |
-| :---: | :---: |
-| ![Law Bot Tech](https://storage.googleapis.com/example-offi-1/law%20bot%20tech.webp) | ![Law Bot UI](https://storage.googleapis.com/example-offi-1/law%20bot.webp) |
+<div align="center">
+
+![Legal Knowledge Retrieval Pipeline](https://i.ibb.co/cXR59by/napkin-selection-2.png)
+
+</div>
 
 ---
 
