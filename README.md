@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ SOLACE
+# SOLACE
 ### *A Silent Shield, A Strong Voice.*
 
 <br/>
