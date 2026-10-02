@@ -3,12 +3,23 @@
 # 🛡️ SOLACE
 ### *A Silent Shield, A Strong Voice.*
 
+<br/>
+
+<img src="docs/images/solace-avatar.png" alt="Solace AI Companion Avatar" width="240" />
+
+<br/>
+
+**Meet Solace** — *Your 24/7 empathetic, trauma-informed 3D AI companion and confidential guardian.*
+
+<br/>
+
 [![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![MongoDB Atlas](https://img.shields.io/badge/MongoDB-Atlas_Vector_Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/products/platform/atlas-vector-search)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-R3F-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 
+<br/>
 <br/>
 
 **SOLACE** is an AI-powered safety, recovery, and legal empowerment platform engineered for women in abusive or high-surveillance environments. It provides covert distress communication, 3D trauma-informed mental health companionship, and constitutional legal guidance—without leaving digital footprints.
